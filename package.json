@@ -11,7 +11,10 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.11"
+    "next": "14.2.11",
+    "@builder.io/dev-tools": "latest",
+    "@builder.io/react": "latest",
+    "@builder.io/sdk": "latest"
   },
   "devDependencies": {
     "eslint": "^8",
